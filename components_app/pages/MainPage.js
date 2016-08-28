@@ -52,7 +52,7 @@ class MainPage extends Component {
         return (
             <View style={styles.principalContainer}>
                 <Text style={styles.mainTitle}>
-                    SUPER HEROE
+                    Buscar super heroes
                 </Text>
                 <TextInput
                     style={styles.mainSearchInput}
